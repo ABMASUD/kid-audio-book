@@ -1,0 +1,13 @@
+body{
+  /* background-image: url(images/background.png); */
+background: no-repeat url("images/background.png");
+}
+
+h1{
+  font-size: 200px;
+  text-align: center;
+  padding: 100px;
+}
+.playground{
+  margin: 30px;
+}
